@@ -2,7 +2,7 @@
 
 A .NET MVC based auction system with fully configurable features, content, and templates
 
-[[https://github.com/bsimser/AuctionSite-Starter-Kit/blob/master/docs/AuctionDetails_2.jpg|alt=Auction Site Starter Kit]]
+[Auction Details](https://github.com/bsimser/AuctionSite-Starter-Kit/blob/master/docs/AuctionDetails_2.jpg)
 
 ## Features
 * Listing items for Auction
